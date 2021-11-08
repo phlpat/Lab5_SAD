@@ -1,24 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="257db59d-f129-4585-a9e6-35024857c932" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab9_behavioral_design_pattern/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab9_behavioral_design_pattern/.idea/Lab9_behavioral_design_pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab9_behavioral_design_pattern/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab9_behavioral_design_pattern/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab9_behavioral_design_pattern/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab9_behavioral_design_pattern/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab9_behavioral_design_pattern/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0d6886fe-0ec3-4e5d-8a9e-82c34e173492" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftArch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavior_2/AgeSortStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavior_2/HeightSortStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavior_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavior_2/NameSortStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavior_2/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavior_2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavior_2/SortStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavior_2/WeightSortStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expected.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
-  <component name="ProjectId" id="20JPEyKtR3m8uWUfILzDYzbSJRD" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="20aHYXKR5jvHXbPz3jMCKaa6sMT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
@@ -79,13 +104,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="untitled104" />
+      <option name="MAIN_CLASS_NAME" value="Behavior_2.Main" />
+      <module name="SoftArch" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -93,15 +117,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="SoftArch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="SoftArch" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="257db59d-f129-4585-a9e6-35024857c932" name="Changes" comment="" />
-      <created>1635759615229</created>
+      <changelist id="0d6886fe-0ec3-4e5d-8a9e-82c34e173492" name="Changes" comment="" />
+      <created>1636275828171</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1635759615229</updated>
+      <updated>1636275828171</updated>
     </task>
     <servers />
   </component>
